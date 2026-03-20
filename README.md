@@ -16,3 +16,4 @@ O foco principal é consolidar conceitos fundamentais de programação enquanto 
 - Sistema de porcentagem e feedback final  
 
 ## 📂 Estrutura
+- src/Program.cs
